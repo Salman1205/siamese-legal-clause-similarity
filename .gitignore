@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+temp_auto_push.bat
+Thumbs.db
+
+# Data (optional - remove if you want to include dataset)
+# dataset/
+# *.csv
+
+# Large files
+*.pth
+*.pt
+*.h5
+*.pkl
+*.pickle
+
+# Results (optional - remove if you want to include results)
+# results/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+.gitignore
+temp_interactive_push.bat
+branch_structure.json
